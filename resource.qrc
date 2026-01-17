@@ -1,0 +1,11 @@
+<RCC>
+  <qresource>
+    <file>images/account - Copy.png</file>
+    <file>images/home (1).png</file>
+    <file>images/list.png</file>
+    <file>images/remove (1).png</file>
+    <file>images/remove (2).png</file>
+    <file>images/remove.png</file>
+    <file>images/user-logout.png</file>
+  </qresource>
+</RCC>
